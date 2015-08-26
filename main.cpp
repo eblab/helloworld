@@ -10,7 +10,7 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  eblabr
+ *         Author:  eblab
  *   Organization:  
  *
  * =====================================================================================
