@@ -8,7 +8,7 @@
  *        Version:  1.0
  *        Created:  26.08.2015 08:51:23
  *       Revision:  none
- *       Compiler:  gcc
+ *       Compiler:  g++
  *
  *         Author:  eblab
  *   Organization:  
